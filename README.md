@@ -1,4 +1,4 @@
-# sam_synopsys_v2
+# sam_synopsys
 Accessed open-sourced dataset (Accessed the roboflow dataset from the README.md: https://github.com/vihaanb-v/drone_dataset.
 
 New dataset with SAM synthetic image incorporation: https://app.roboflow.com/drone-obstacle-detection/sam_synopsys/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
